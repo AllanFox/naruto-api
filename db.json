@@ -1,0 +1,30 @@
+{
+    "characters": [
+        {
+            "id": 0,
+            "name": "Naruto Uzumaki",
+            "birthdate": "October 10",
+            "sex": "Male",
+            "age": {
+                "part1": "12-13",
+                "part2": "15-17"
+            },
+            "classificaion": ["Jinchuriki", "Sage", "Sensor Type"],
+            "occupation": "Hokage",
+            "Affiliation": ["Konohagakure", "Mount Myoboku", "Allied Shinobi Forces"]
+        },
+        {
+            "id": 1,
+            "name": "Sasuke Uchiha",
+            "birthdate": "July 23",
+            "sex": "Male",
+            "age": {
+                "part1": "12-13",
+                "part2": "16-17"
+            },
+            "classificaion": ["Missing-nin"],
+            "occupation": "Head of Uchiha Clan",
+            "Affiliation": ["Konohagakure", "Otogakure", "Ryuchi Cave", "Akatsuki"]
+        }
+    ]
+}
